@@ -55,6 +55,8 @@ This repository contains the implementation of various AI algorithms and applica
 - Setup and configuration of Raspberry Pi for collecting real-time environmental data using temperature and gas sensors.
 - Pretraining a DL-based model for object detection and deploying it on Raspberry Pi for real-time object detection using TensorFlow Lite.
 
+**Note:** The repository is fully complete and updated until Week-10. Week-11 is currently under progress.
+
 For detailed implementation and documentation, please refer to the respective directories and files within this repository.
 
 **Author:** Rakshit Ayachit
